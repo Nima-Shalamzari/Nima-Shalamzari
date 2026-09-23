@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nima-Shalamzari
+- 👋 Hi, I’m Nima
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning Unity based c# coding on a 2d environment
 - 💞️ I’m looking to collaborate on improving our skills!
